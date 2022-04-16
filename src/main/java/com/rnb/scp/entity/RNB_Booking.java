@@ -3,7 +3,7 @@ package com.rnb.scp.entity;
 import javax.persistence.*;
 
 @Entity
-@Table	(name="rnbBooking")
+@Table	(name="rnb_Booking")
 
 public class RNB_Booking {
 	
